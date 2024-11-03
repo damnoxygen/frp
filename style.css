@@ -1,5 +1,6 @@
 body {
   display: flex;
+  font-family: Montserrat 'Sans-serif';
   background-color: #121212;
   align-items: center;
   align-content: center;
